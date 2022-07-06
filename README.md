@@ -1,0 +1,1 @@
+Neste repositório colocarei as atividades realizadas na plataforma Alura
